@@ -2,6 +2,17 @@
 title: This is not the mask you want, It's the mask you can make.
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161650101-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-161650101-1');
+</script>
+
+
 # Last Resort Mask
 
 We are a collective of hackers, makers, and engineers trying to help with the PPE shortage.
