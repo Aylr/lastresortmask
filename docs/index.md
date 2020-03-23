@@ -23,11 +23,13 @@ We are a collective of hackers, makers, and engineers trying to help with the PP
 
 - We are in an unprecedented worldwide situation and want to help.
 - We aim to create last-resort PPE that can be made with common supplies, minimal skills and common tools.
+- We are not trying to replace low stocks of certified PPE.
 
 ## Supplies You'll Need
 
 - an empty 2-liter bottle
-- sticky backed foam (commonly available from craft stores or big-box stores
+- sticky backed EVA foam sheets (2-5 mm) (commonly available from craft stores like Michael's, Hobby Lobby or big-box stores such as Walmart)
+  - This comes in brand names like Silly Winks
 - a balloon (used for the one way exhalation valve)
 - a small plastic water bottle (for the filter cartridge)
 - hot glue
